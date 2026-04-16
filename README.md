@@ -1,36 +1,33 @@
-# 👋 Hi, I’m a Software Developer
+# Welcome to My Profile
 
-I’m a **certified software developer** with experience in **Dart & Flutter**, passionate about building clean, reliable applications and continuously expanding my skill set.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelle8395&show_icons=true&theme=great-gatsby)
 
----
+## 🚀 About Me
 
-## 💼 What I Do
-- 📱 Flutter developer using **Dart**
-- ☁️ **AWS Certified Cloud Practitioner (CCP)**
-- 🧠 Currently learning **Go (Golang)**
-- 🔐 Strong interest in **Cybersecurity**
-- 🌐 Growing knowledge and enthusiasm for **Networking**
+I'm a passionate software developer with skills in various programming languages and technologies. My journey in coding started at a young age and has evolved over the years as I’ve taken on numerous projects.
 
----
+## 🏆 GitHub Stats
 
-## 🛠️ Skills & Technologies
-- **Languages:** Dart, Go (learning)
-- **Frameworks:** Flutter
-- **Cloud:** AWS
-- **Interests:** Cybersecurity, Networking, System Design
+![Contribution Streak](https://github-readme-stats.vercel.app/api/wakatime?username=Michelle8395&theme=great-gatsby)
 
----
+## 🛠️ Skills
 
-## 🎯 Goals
-- Build scalable and secure applications  
-- Strengthen backend and networking fundamentals  
-- Explore security-focused development practices  
+- **Languages**: JavaScript, Python, C++, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Jenkins
 
----
+## 📈 Contribution Streak
 
-## 📌 Fun Fact
-I enjoy understanding *how things work under the hood* — from networks to cloud infrastructure.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michelle8395&theme=great-gatsby)
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/Michelle8395)
+- [Email](mailto:michelle8395@example.com)
+
+## 🌟 Let's Build Something Amazing Together!
 
 ---
 
-⭐ Feel free to explore my repositories and connect!
+Thank you for visiting my GitHub profile!
