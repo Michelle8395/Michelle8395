@@ -2,6 +2,10 @@
 
 **Software Developer | Flutter & Dart Specialist | AWS Certified Cloud Practitioner**
 
+## 💼 About Me
+
+I'm a **certified software developer** with expertise in **Dart & Flutter**, passionate about building clean, reliable, and secure applications. I combine mobile development skills with cloud architecture knowledge and a growing interest in cybersecurity and networking.
+
 ---
 
 ## 📊 GitHub Stats
@@ -18,11 +22,6 @@
 
 ---
 
-## 💼 About Me
-
-I'm a **certified software developer** with expertise in **Dart & Flutter**, passionate about building clean, reliable, and secure applications. I combine mobile development skills with cloud architecture knowledge and a growing interest in cybersecurity and networking.
-
----
 
 ## 🛠️ Tech Stack
 
