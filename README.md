@@ -2,7 +2,7 @@
 
 **Software Developer | Flutter & Dart Specialist | AWS Certified Cloud Practitioner**
 
- ##💼 About Me
+ ## 💼 About Me
 
 I’m a software developer focused on backend systems, cloud technologies, and DevOps practices, with hands-on experience building scalable and reliable applications.
 
